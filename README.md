@@ -9,3 +9,12 @@
 **Call Sign:** JC
 
 ----
+# Clone Army
+
+## Colin Frey
+
+**Rank:** Recruit
+
+**Designation:** IF-101
+
+**Call Sign:** Calvin
